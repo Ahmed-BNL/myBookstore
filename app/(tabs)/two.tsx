@@ -73,7 +73,6 @@ const styles = StyleSheet.create({
   subtitle: {
     fontSize: 16,
     marginBottom: 16,
-    fontFamily: 'Lora',
     color: '#C59F60',
     fontWeight: 'bold',
     textShadowColor: 'rgba(0, 0, 0, 0.75)',

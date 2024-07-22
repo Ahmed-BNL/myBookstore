@@ -44,7 +44,6 @@ title: {
     fontSize: 22,
     textAlign: 'left',
     marginBottom: 40,
-    fontFamily: 'Lora',
     color: '#C59F60',
     fontWeight: 'bold',
     textShadowColor: 'rgba(0, 0, 0, 0.75)',
